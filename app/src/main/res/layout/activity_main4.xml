@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main4Activity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="2dp"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="  সংগীত :"
+            android:background="#2E86C1"
+            android:textSize="25dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="মহুয়ার গান"
+            android:textColor="#2E86C1"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="110dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কাজী নজরুল ইসলাম"
+            android:textSize="25dp"
+            android:layout_marginLeft="70dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/A"
+            android:textSize="15dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="রাঙা-জবা"
+            android:textColor="#2E86C1"
+            android:textSize="30dp"
+            android:layout_marginLeft="110dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কাজী নজরুল ইসলাম"
+            android:textSize="25dp"
+            android:layout_marginLeft="70dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/B"
+            android:textSize="15dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="গানের মালা"
+            android:textColor="#2E86C1"
+            android:textSize="30dp"
+            android:layout_marginLeft="110dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কাজী নজরুল ইসলাম"
+            android:textSize="25dp"
+            android:layout_marginLeft="70dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/C"
+            android:textSize="18dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="বনগীতি"
+            android:textColor="#2E86C1"
+            android:textSize="30dp"
+            android:layout_marginLeft="110dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কাজী নজরুল ইসলাম"
+            android:textSize="25dp"
+            android:layout_marginLeft="70dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/D"
+            android:textSize="15dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="চন্দ্রবিন্দু"
+            android:textColor="#2E86C1"
+            android:textSize="30dp"
+            android:layout_marginLeft="110dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="কাজী নজরুল ইসলাম"
+            android:textSize="25dp"
+            android:layout_marginLeft="70dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/E"
+            android:textSize="15dp"
+            />
+
+
+    </LinearLayout>
+
+
+</ScrollView>
